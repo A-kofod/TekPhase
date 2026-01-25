@@ -8,11 +8,11 @@ This is an early pre-release version. TekPhase is primarily an educational proje
 
 The program produces mathematically consistent vector plots. The interface is functional rather than polished, and some features may feel clumsy - to be improved in future updates.
 
-A complete guide and full documentation will be provided in a future updated ´README´.
+A complete guide and full documentation will be provided in a future updated `README`.
 
 ## How to download
 
-The application is available as a standalone ´.exe´. No additional software is required to run TekPhase.
+The application is available as a standalone `.exe`. No additional software is required to run TekPhase.
 
 Older versions are available in the repository, but it is recommended to download the newest version.
 Go to the repository → Releases → select the latest `TekPhase.exe`.
@@ -33,7 +33,7 @@ The program is free to use and distribute. Please respect the intended education
 
 # Future updates
 Future updates will consist of, but are not limited to:
-- Full user guide in ´README´. 
+- Full user guide in `README`. 
 - Migration to PyQt
 - "Resulting Vector" calculations.
 - Improved labelling
