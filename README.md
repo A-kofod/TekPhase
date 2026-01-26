@@ -4,11 +4,12 @@
 
 ## Alpha release
 
-This is an early pre-release version. TekPhase is primarily an educational project, designed to help learn software development, debugging, error handling, documentation, and release management.
+This is an early pre-release version. TekPhase is primarily an educational project developed by the author, a student of Marine Engineering and Technology Management, with the goal of learning Python, debugging, error handling, documentation, and release management.
+The program utilizes `tkinter` and `matplotlib` to provide a graphical interface and vector plots.
 
 The program produces mathematically consistent vector plots. The interface is functional rather than polished, and some features may feel clumsy - to be improved in future updates.
 
-A complete guide and full documentation will be provided in a future updated `README`.
+A complete guide and full documentation will be provided in a future update to the `README`.
 
 ## How to download
 
@@ -23,7 +24,7 @@ The application does not yet support updating or autoupdating, meaning upon a ne
 
 TekPhase is built specifically for students of Marine Engineering and Technology Management (Maskinmester), and introductory electronics students.
 
-It is not intended to replace professional software like MatCad or MatLab, but provides a quick and lightweight way to visualize common electrical vector formations.
+It is not intended to replace professional software like Mathcad or MATLAB, but provides a quick and lightweight way to visualize common electrical vector formations.
 
 TekPhase is a vector plotter, not a calculator.
 
@@ -31,7 +32,7 @@ TekPhase is a vector plotter, not a calculator.
 
 The program is free to use and distribute. Please respect the intended educational use of the software.
 
-# Future updates
+## Future updates
 Future updates will consist of, but are not limited to:
 - Full user guide in `README`. 
 - Migration to PyQt
