@@ -36,8 +36,6 @@ The program is free to use and distribute. Please respect the intended education
 Future updates will consist of, but are not limited to:
 - Full user guide in `README`. 
 - Migration to PyQt
-- "Resulting Vector" calculations.
-- Improved labelling
 - Harmonic currents
 
   
